@@ -4,7 +4,7 @@
     "366": {
       "title": "لم يعرفه العالم بعد",
       "groups": {
-        "Stellar Saber": {
+        "Stellar Saber": [
           "1": "https://raw.githubusercontent.com/FiberAhmed/FiberAhmed/refs/heads/main/stellar/bluelock/366/1.png",
           "2": "https://raw.githubusercontent.com/FiberAhmed/FiberAhmed/refs/heads/main/stellar/bluelock/366/2.jpg",
           "3": "https://raw.githubusercontent.com/FiberAhmed/FiberAhmed/refs/heads/main/stellar/bluelock/366/3.png",
@@ -22,7 +22,7 @@
           "15": "https://raw.githubusercontent.com/FiberAhmed/FiberAhmed/refs/heads/main/stellar/bluelock/366/15.png",
           "16": "https://raw.githubusercontent.com/FiberAhmed/FiberAhmed/refs/heads/main/stellar/bluelock/366/16.png",
           "17": "https://raw.githubusercontent.com/FiberAhmed/FiberAhmed/refs/heads/main/stellar/bluelock/366/17.png"
-        }
+       ]
       }
     }
   }
